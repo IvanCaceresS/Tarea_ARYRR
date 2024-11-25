@@ -14,7 +14,7 @@ destination_ips = [
 methods = ["UDP", "ICMP", "UDP-Paris", "ICMP-Paris", "TCP", "TCP-ACK"]
 
 # Directorio para guardar los resultados
-results_dir = "results"
+results_dir = "./results"
 
 # Verificar si el directorio existe, si no, crearlo
 if not os.path.exists(results_dir):

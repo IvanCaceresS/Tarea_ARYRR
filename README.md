@@ -3,7 +3,7 @@ Tarea individual de Algoritmos de Ruteo y Redes Resilientes
 
 python3 -m venv myenv
 source myenv/bin/activate
-pip install bs4 requests
+pip install bs4 requests openpyxl
 
 
 
